@@ -4,7 +4,7 @@ Oii, sou dev front-end apaixonado por criar interfaces incríveis e interativas.
 
 Um pouquinho sobre o que você vai ver aqui
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-araujoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-araujoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -27,6 +27,12 @@ Um pouquinho sobre o que você vai ver aqui
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Pinia](https://img.shields.io/badge/-Pinia-FF4A1C?style=flat-square&logo=vue.js&logoColor=white)
+
+**Estilo**
+
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
 
 **Testes**
 
