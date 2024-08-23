@@ -61,7 +61,7 @@ Um pouquinho sobre o que você vai ver aqui
 
 **Desenvolvedor Front-end**  \
 **F360** \
-Linguagens & Tecnologias: `Vue` `TypeScript` `SCSS` `Vite` `Web Components`
+Linguagens & Tecnologias: `Vue` `TypeScript` `Sass` `Vite` `Web Components`
 
 **Desenvolvedor Front-end** \
 **Geofusion** • Jr \
