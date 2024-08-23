@@ -69,7 +69,7 @@ Linguagens & Tecnologias: `React`, `TypeScript`, `Less`, `Webpack`, `Ant Design`
 
 **Estágio de Desenvolvedor Fullstack** \
 **Make the Way** • Estágio \
-Linguagens & Tecnologias: `React`, `JavaScript`, `Sass`, `MUI`, `Python`
+Linguagens & Tecnologias: `React`, `JavaScript`, `Sass`, `MUI`, `Python`, `Django`
 
 ---
 
