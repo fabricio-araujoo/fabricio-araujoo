@@ -61,15 +61,15 @@ Um pouquinho sobre o que você vai ver aqui
 
 **Desenvolvedor Front-end**  \
 **F360** \
-Linguagens & Tecnologias: `Vue`, `TypeScript`, `SCSS`, `Vite`, `Web Components`
+Linguagens & Tecnologias: `Vue` `TypeScript` `SCSS` `Vite` `Web Components`
 
 **Desenvolvedor Front-end** \
 **Geofusion** • Jr \
-Linguagens & Tecnologias: `React`, `TypeScript`, `Less`, `Webpack`, `Ant Design`
+Linguagens & Tecnologias: `React` `TypeScript` `Less` `Webpack` `Ant Design`
 
 **Estágio de Desenvolvedor Fullstack** \
 **Make the Way** • Estágio \
-Linguagens & Tecnologias: `React`, `JavaScript`, `Sass`, `MUI`, `Python`, `Django`
+Linguagens & Tecnologias: `React` `JavaScript` `Sass` `MUI` `Python` `Django`
 
 ---
 
