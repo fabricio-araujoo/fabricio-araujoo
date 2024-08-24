@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Fabrício Araújo
 
-Oii, sou dev front-end apaixonado por criar interfaces incríveis e interativas. Com experiência em React e Vue.js e explorando cada vez mais o Angular, eu adoro explorar novas tecnologias e frameworks para entregar a melhor experiência de usuário.
+Oii, sou dev front-end apaixonado por criar interfaces incríveis e interativas. Com experiência em React e Vue.js e explorando cada vez mais o Angular, eu adoro aprender novas tecnologias para entregar a melhor experiências possíveis.
 
 Um pouquinho sobre o que você vai ver aqui
 
