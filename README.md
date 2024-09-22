@@ -22,6 +22,7 @@ Um pouquinho sobre o que você vai ver aqui
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-8CC84C?style=flat-square&logo=node.js&logoColor=white)
 
 **Controle de Estado**
