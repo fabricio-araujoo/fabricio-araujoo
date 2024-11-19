@@ -63,7 +63,7 @@ Um pouquinho sobre o que você vai ver aqui
 ### ⌨️ Experiência de trabalho
 
 **Desenvolvedor Front-end**  \
-**F360** \
+**F360** • Jr \
 Linguagens & Tecnologias: `Vue` `TypeScript` `Sass` `Vite` `Web Components`
 
 **Desenvolvedor Front-end** \
