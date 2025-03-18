@@ -63,15 +63,15 @@ Um pouquinho sobre o que você vai ver aqui
 ### ⌨️ Experiência de trabalho
 
 **Desenvolvedor Front-end**  \
-**F360** • Jr \
+**F360** \
 Linguagens & Tecnologias: `Vue` `TypeScript` `Sass` `Vite` `Web Components`
 
 **Desenvolvedor Front-end** \
-**Geofusion** • Jr \
+**Geofusion** \
 Linguagens & Tecnologias: `React` `TypeScript` `Less` `Webpack` `Ant Design`
 
 **Estágio de Desenvolvedor Fullstack** \
-**Make the Way** • Estágio \
+**Make the Way** \
 Linguagens & Tecnologias: `React` `JavaScript` `Sass` `MUI` `Python` `Django`
 
 ---
