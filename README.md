@@ -64,11 +64,11 @@ Um pouquinho sobre o que você vai ver aqui
 
 **Desenvolvedor Front-end**  \
 **F360** \
-Linguagens & Tecnologias: `Vue` `TypeScript` `Sass` `Vite` `Web Components`
+Linguagens & Tecnologias: `Vue` `TypeScript` `Sass` `Vite` `Element Plus` `Design System` `Websocket`
 
 **Desenvolvedor Front-end** \
 **Geofusion** \
-Linguagens & Tecnologias: `React` `TypeScript` `Less` `Webpack` `Ant Design`
+Linguagens & Tecnologias: `React` `TypeScript` `Less` `Webpack` `Ant Design` `Design System` `Micro Frontend` `Mapbox`
 
 **Estágio de Desenvolvedor Fullstack** \
 **Make the Way** \
